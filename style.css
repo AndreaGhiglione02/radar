@@ -1,0 +1,21 @@
+html {
+  font-family: Arial;
+  display: inline-block;
+  text-align: center;
+}
+p {
+  font-size: 1.2rem;
+}
+body {
+  margin: 0;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #a33d3b;
+  color: white;
+  font-size: 1rem;
+
+}
+canvas {
+  display: block;
+}
